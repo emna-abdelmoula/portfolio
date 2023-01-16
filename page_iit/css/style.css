@@ -79,7 +79,7 @@ body{
     line-height: 25px;
 }
 .bg{
-    background-image: url('../img/compus.jpg');
+    background-image: url('./img/compus.jpg');
     background-size:cover;
     background-position:center center;
     background-attachment:fixed;
